@@ -7,49 +7,49 @@ The data acquisition system for vibration analysis interfaces the DAQ device wit
 ### 1. Initial Launch Screen
 Upon launching the application, the user is greeted with the initial screen. The user must press **"Next"** to proceed.
 
-![Initial Launch Screen](link-to-image-figure-43)
+![1 Start](https://github.com/user-attachments/assets/56738538-2d12-4c03-b1d4-fcaa87ce0fd5)
 
 ### 2. COM Port and Baud Rate Selection
 In this window, the user selects the appropriate COM port and baud rate for communication. The **"Refresh"** button updates the list of available ports, and the **"Connect"** button initiates the connection.
 
-![COM Port and Baud Rate Selection](link-to-image-figure-44)
+![2 Com_Manager](https://github.com/user-attachments/assets/6814959b-60c2-4b80-9460-26f4dc564268)
 
 ### 3. COM Port and Baud Rate Connected
 Once the correct COM port and baud rate are selected, pressing the **"Connect"** button connects the device, and the user is taken to the data collection window.
 
-![COM Port and Baud Rate Connected](link-to-image-figure-45)
+![3 Select_Comp_port](https://github.com/user-attachments/assets/9f81a296-ddf0-4df2-bbf6-f4c87f11903c)
 
 ### 4. Data Collection Controls
 In this window, the user can start, stop, and save the recording of acceleration data. The **"Start"** button begins data collection, the **"Stop"** button halts it, and the **"Save"** button opens a dialog to save the recorded data.
 
-![Data Collection Controls](link-to-image-figure-46)
+![79](https://github.com/user-attachments/assets/57e0dbd3-b4af-4a97-a1d7-7eb985ae877e)
 
 ### 5. Start Collecting Data
 When the user presses **"Start,"** the system begins collecting data, as indicated by the message **"Start collecting data..."**
 
-![Start Collecting Data](link-to-image-figure-47)
+![4 Start_Data Collection](https://github.com/user-attachments/assets/aa56e7ee-0536-4f22-89ff-2a6d66633969)
 
 ### 6. Stop Collecting Data
 Pressing **"Stop"** halts the data collection, and the message **"Stop collecting data..."** appears on the screen.
 
-![Stop Collecting Data](link-to-image-figure-48)
+![5 Stop_Data_Colloection](https://github.com/user-attachments/assets/90ac387b-d7f0-4223-bf82-0707bc354962)
 
 ### 7. Saving Data
 After stopping the data collection, the user can save the data by pressing the **"Save"** button. This opens a dialog where the user can specify the file name and location.
 
-![Saving Data](link-to-image-figure-49)
+![6 Save_Data](https://github.com/user-attachments/assets/bff94f9f-9746-4602-84ec-a6cc8266fde7)
 
 ### 8. Success Message
 Upon successfully saving the data, a confirmation message appears, indicating the location of the saved file.
 
-![Success Message](link-to-image-figure-50)
+![7 Save_CSV_File](https://github.com/user-attachments/assets/4cc83790-aab4-4806-a852-b1a959c100d5)
 
 ### 9. Saved File Location
 The saved file can be found in the specified save location.
 
-![Saved File Location](link-to-image-figure-51)
+![8 Confiramation](https://github.com/user-attachments/assets/8e1e65a1-b22d-47cd-b0dc-75f77b2f4d31)
 
 ### 10. Close the Windows
 When the **"Finish"** button is clicked, all the opened windows are closed.
 
-![Close the Windows](link-to-image-figure-52)
+![9 Finish](https://github.com/user-attachments/assets/1c9ef627-a377-4de3-b34a-8fca204eb3b4)
